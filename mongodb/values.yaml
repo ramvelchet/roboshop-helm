@@ -1,4 +1,4 @@
-ddeployment:
+deployment:
   imageRepo: ramvelcheti/mongodb
   imageVersion: v1
 service:
